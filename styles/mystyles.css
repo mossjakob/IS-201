@@ -1,3 +1,16 @@
 .anchorstyle {
     color:azure;
+    font-weight: bolder;
+}
+
+.nutterbutter {
+    color:rgb(153, 111, 5);
+}
+
+.myfamily {
+    text-align: center;
+}
+
+.resume {
+    text-align: center;
 }
