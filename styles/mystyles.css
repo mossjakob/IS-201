@@ -1,3 +1,4 @@
+/*<!-- Jakob Moss last worked on this page on 12-16-21 --> */
 .anchorstyle {
     color:azure;
     font-weight: bolder;
@@ -9,8 +10,36 @@
 
 .myfamily {
     text-align: center;
+    font-style: italic;
 }
 
 .resume {
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.test {
+    text-align: center;
+    width: 100%;
+    background-size: 100%;
+    background-color: lightblue;
+    background-position: center;
+}
+
+.wideenough {
+    width: 50%;
+}
+
+.bottom {
+    text-align: center;
+    width: 100%;
+    background-color:linen ;
+    outline-color: mediumblue;
+    outline-width: 2px;
+    border-top: mediumblue 20px dotted bold;
+}
+
+.picture {
+    align-items: center;
+    width: 100%;
 }
